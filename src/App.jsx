@@ -15,7 +15,7 @@ function App() {
         <Navbar/>
         <Routes>
         <Route
-          path="/"
+          path="/E-commerceApp"
           element={<Home/>}
         />
         <Route
